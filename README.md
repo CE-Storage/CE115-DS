@@ -4,15 +4,17 @@ Welcome to the repository for Discrete Structures course at Sharif University of
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Course Materials](#course-materials)
-  - [Assignments](#assignments)
-  - [Exams](#exams)
-  - [Lectures](#lectures)
-- [Additional Resources](#additional-resources)
-- [Contributing](#contributing)
-- [Maintainer](#maintainer)
-- [License](#license)
+- [CE40115-DS: Discrete Structures Course Repository](#ce40115-ds-discrete-structures-course-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Course Materials](#course-materials)
+    - [Assignments](#assignments)
+    - [Exams](#exams)
+    - [Lectures](#lectures)
+  - [Additional Resources](#additional-resources)
+  - [Contributing](#contributing)
+  - [Maintainer](#maintainer)
+  - [License](#license)
 
 ## Overview
 
@@ -56,6 +58,7 @@ We appreciate your contributions and look forward to your valuable input!
 
 Information about the maintainer(s) of the repository, with contact details.
 - [Moeein Aali](https://github.com/moeeinaali)
+- [Amirhossein Souri](https://github.com/Amir14Souri)
 
 ## License
 
