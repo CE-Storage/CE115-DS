@@ -1,4 +1,4 @@
-# CE40115-DS: Discrete Structures Course Repository
+# CE115-DS: Discrete Structures Course Repository
 
 Welcome to the repository for Discrete Structures course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
 
